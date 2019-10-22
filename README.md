@@ -1,2 +1,3 @@
 # SpringBoot
-Spring boot project , just for learning how to use it.
+这里将来会分享一些Spring boot 开发项目经验，分享之前会先给出一些基础知识分享，
+dev_1.0 中的代码是装饰者模式的学习案例，是从慕课网上学习后自己的编码。
